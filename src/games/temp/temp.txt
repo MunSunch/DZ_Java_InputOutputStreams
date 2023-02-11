@@ -1,0 +1,11 @@
+date:2023-02-11T12:25:07.509969 message:<<create newDirectory games>>  status:true
+date:2023-02-11T12:25:07.539481 message:<<create newDirectory src>>  status:true
+date:2023-02-11T12:25:07.53974 message:<<create newDirectory res>>  status:true
+date:2023-02-11T12:25:07.539954 message:<<create newDirectory savegames>>  status:true
+date:2023-02-11T12:25:07.540175 message:<<create newDirectory temp>>  status:true
+date:2023-02-11T12:25:07.540465 message:<<create newDirectory main>>  status:true
+date:2023-02-11T12:25:07.540712 message:<<create newDirectory test>>  status:true
+date:2023-02-11T12:25:07.541728 message:<<create newDirectory drawables>>  status:true
+date:2023-02-11T12:25:07.54197 message:<<create newDirectory vectors>>  status:true
+date:2023-02-11T12:25:07.542191 message:<<create newDirectory icons>>  status:true
+date:2023-02-11T12:25:07.542884 message:<<create new file temp.txt>>  status:true
